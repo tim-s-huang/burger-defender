@@ -1,6 +1,6 @@
 # Burger Defender
 
-A small arcade survival game made in Python. You're a burger in in a picnic and swarms of flies are closing in. Click to fire sesame seeds at them before they reach you.
+A small arcade survival game made in Python. You're a burger at a picnic and swarms of flies are closing in. Click to fire sesame seeds at them before they reach you.
 
 <img width="1266" height="1065" alt="burger defender" src="https://github.com/user-attachments/assets/17285aa8-ea62-48b0-be56-2fceec9af230" />
 
